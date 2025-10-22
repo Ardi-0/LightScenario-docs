@@ -31,7 +31,7 @@ This repository contains the **complete documentation** for Light Manager Pro, a
 - [Getting Started](../../wiki/02-Getting-Started)
 - [Main Panel](../../wiki/03-Main-Panel)
 - [World Settings](../../wiki/04-World-Settings)
-- [Light Hierarchy](../../wiki/05-Light-Hierarchy)
+- [Light Hierarchy](../../wiki/05-Lights-Hierarchy)
 - [Lighting Scenarios](../../wiki/06-Lighting-Scenarios)
 - [Light Linking](../../wiki/07-Light-Linking)
 - [Batch Operations](../../wiki/08-Batch-Operations)
