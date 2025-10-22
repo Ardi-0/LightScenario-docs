@@ -12,9 +12,7 @@ This repository contains the **complete documentation** for Light Manager Pro, a
 
 **⚠️ This is documentation only** - the addon source code is not included here.
 
-
-
-
+  
 # 🛒 Purchase Light Manager Pro
 
 **Available on:**
