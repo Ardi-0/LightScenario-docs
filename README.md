@@ -62,15 +62,6 @@ Manage multiple lights simultaneously with color operations, power control, and 
 
 ---
 
-## 📊 Stats
-
-- **171 Operators** for comprehensive control
-- **11 Panels/Menus** for organized workflow
-- **Supports Blender 4.0+**
-- **GPL v3 Licensed** with commercial distribution terms
-
----
-
 ## 🆘 Support
 
 ### For Customers:
