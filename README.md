@@ -12,13 +12,15 @@ This repository contains the **complete documentation** for Light Manager Pro, a
 
 **⚠️ This is documentation only** - the addon source code is not included here.
 
-  
+---
+
 # 🛒 Purchase Light Manager Pro
 
 **Available on:**
 - [Blender Market (Superhive)](YOUR_BLENDER_MARKET_LINK)
 - [Gumroad](YOUR_GUMROAD_LINK)
 
+---
 
 # 📖 Documentation
 
@@ -39,6 +41,7 @@ This repository contains the **complete documentation** for Light Manager Pro, a
 - [Tables of Contents](../../wiki/Table-of-Contents)
 - [Troubleshooting](../../wiki/Troubleshooting)
 
+---
 
 # ✨ Key Features
 
@@ -57,6 +60,7 @@ Control which lights affect which objects with powerful linking tools.
 ### 📦 Batch Operations
 Manage multiple lights simultaneously with color operations, power control, and organization tools.
 
+---
 
 # 🆘 Support
 
@@ -69,6 +73,7 @@ Manage multiple lights simultaneously with color operations, power control, and 
 - Check the [Wiki Documentation](../../wiki)
 - Contact through purchase platforms
 
+---
 
 # ⚖️ License
 
@@ -80,6 +85,7 @@ Light Manager Pro is licensed under **GNU GPL v3** with commercial distribution 
 
 See the [License](../../wiki/License) page for full details.
 
+---
 
 # 🙏 Credits
 
@@ -92,6 +98,7 @@ See the [License](../../wiki/License) page for full details.
 **Third-Party Integration**:
 - Light Control (EL) by Blendercontrol (GPL v3)
 
+---
 
 # 🔗 Links
 
