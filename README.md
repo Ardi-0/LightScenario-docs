@@ -27,13 +27,18 @@ This repository contains the **complete documentation** for Light Manager Pro, a
 **→ [Read the Complete Documentation in the Wiki](../../wiki)**
 
 ### Quick Links:
-- [Installation Guide](../../wiki/Installation)
-- [Getting Started](../../wiki/Getting-Started)
-- [Lighting Scenarios System](../../wiki/Lighting-Scenarios)
-- [HDRI Manager](../../wiki/HDRI-Manager)
-- [Fast Light Editing](../../wiki/Fast-Light-Editing)
-- [Light Linking](../../wiki/Light-Linking)
-- [Batch Operations](../../wiki/Batch-Operations)
+- [Installation Guide](../../wiki/01-Installation)
+- [Getting Started](../../wiki/02-Getting-Started)
+- [Main Panel](../../wiki/03-Main-Panel)
+- [World Settings](../../wiki/04-World-Settings)
+- [Light Hierarchy](../../wiki/05-Light-Hierarchy)
+- [Lighting Scenarios](../../wiki/06-Lighting-Scenarios)
+- [Light Linking](../../wiki/07-Light-Linking)
+- [Batch Operations](../../wiki/08-Batch-Operations)
+- [Collections and Colors](../../wiki/09-Collections-and-Colors)
+- [Keyboard Shortcuts](../../wiki/10-Keyboard-Shortcuts)
+- [Light Edit](../../wiki/11-Light-Edit)
+- [Tables of Contents](../../wiki/Table-of-Contents)
 - [Troubleshooting](../../wiki/Troubleshooting)
 
 ---
