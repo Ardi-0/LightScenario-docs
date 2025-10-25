@@ -1,4 +1,4 @@
-# Light Manager Pro - Documentation
+# LightScenario - Documentation
 
 **Advanced light management system for Blender 4.0+**
 
