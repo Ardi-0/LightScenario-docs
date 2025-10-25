@@ -14,7 +14,7 @@ This repository contains the **complete documentation** for Light Manager Pro, a
 
 ---
 
-# 🛒 Purchase Light Manager Pro
+# 🛒 Purchase LightScenario
 
 **Available on:**
 - [Blender Market (Superhive)](YOUR_BLENDER_MARKET_LINK)
