@@ -103,7 +103,7 @@ See the [License](../../wiki/License) page for full details.
 # 🔗 Links
 
 - **Documentation Wiki**: [View Wiki](../../wiki)
-- **Purchase**: [Blender Market](YOUR_LINK) | [Gumroad](YOUR_LINK)
+- **Purchase**: ???
 - **Version**: 1.0.0
 - **Blender**: 4.0 or higher
 
