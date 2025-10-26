@@ -6,23 +6,23 @@ Created by **Ardidraws**
 
 ---
 
-# 📚 About This Repository
+# About This Repository
 
-This repository contains the **complete documentation** for Light Manager Pro, a professional Blender addon for lighting management.
+This repository contains the **complete documentation** for LightScenario, a professional Blender addon for lighting management.
 
 **⚠️ This is documentation only** - the addon source code is not included here.
 
 ---
 
-# 🛒 Purchase LightScenario
+# Purchase LightScenario
 
 **Available on:**
-- [Blender Market (Superhive)](YOUR_BLENDER_MARKET_LINK)
-- [Gumroad](YOUR_GUMROAD_LINK)
+- ???
+- ???
 
 ---
 
-# 📖 Documentation
+# Documentation
 
 **→ [Read the Complete Documentation in the Wiki](../../wiki)**
 
@@ -43,26 +43,26 @@ This repository contains the **complete documentation** for Light Manager Pro, a
 
 ---
 
-# ✨ Key Features
+# Key Features
 
-### 🎬 Lighting Scenarios System
+### Lighting Scenarios System
 Create, save, and blend multiple lighting setups in one scene. Switch between them instantly or animate smooth transitions.
 
-### 🌍 HDRI Manager
+### HDRI Manager
 Professional HDRI workflow with Temperature and Tint color controls built-in.
 
-### ⚡ Fast Light Editing
+### Fast Light Editing
 Interactive modal editing - adjust lights by moving your mouse. No properties panel needed.
 
-### 🔗 Light Linking
+### Light Linking
 Control which lights affect which objects with powerful linking tools.
 
-### 📦 Batch Operations
+### Batch Operations
 Manage multiple lights simultaneously with color operations, power control, and organization tools.
 
 ---
 
-# 🆘 Support
+# Support
 
 ### For Customers:
 - Email: [YOUR EMAIL]
@@ -75,9 +75,9 @@ Manage multiple lights simultaneously with color operations, power control, and 
 
 ---
 
-# ⚖️ License
+# License
 
-Light Manager Pro is licensed under **GNU GPL v3** with commercial distribution terms.
+LightScenario is licensed under **GNU GPL v3** with commercial distribution terms.
 
 **This documentation** is free to read and reference.
 
@@ -87,7 +87,7 @@ See the [License](../../wiki/License) page for full details.
 
 ---
 
-# 🙏 Credits
+# Credits
 
 **Main Developer**: Ardidraws
 - Core addon architecture
@@ -109,6 +109,6 @@ See the [License](../../wiki/License) page for full details.
 
 ---
 
-**Thank you for your interest in Light Manager Pro!**
+**Thank you for your interest in LightScenario!**
 
 *© 2025 Ardidraws | GPL v3 License*
