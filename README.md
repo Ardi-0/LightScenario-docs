@@ -65,8 +65,8 @@ Manage multiple lights simultaneously with color operations, power control, and 
 # Support
 
 ### For Customers:
-- Email: [YOUR EMAIL]
-- Discord: [YOUR DISCORD]
+- Email: 
+- Discord: 
 - Support through your purchase platform
 
 ### For Pre-Purchase Questions:
